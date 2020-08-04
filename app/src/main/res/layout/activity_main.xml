@@ -15,14 +15,7 @@
                 app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="8dp"
                 app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="8dp"
                 android:layout_marginStart="8dp"/>
-        <TextView
-                android:text="TextView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView29" tools:text="Hobby"
-                app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="8dp"
-                tools:layout_editor_absoluteX="89226dp"/>
-        <TextView
+TextView
                 android:text="TextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
